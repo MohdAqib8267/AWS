@@ -7,11 +7,12 @@
 <img width="1000" alt="Screenshot 2023-09-22 192154" src="https://github.com/MohdAqib8267/AWS/assets/106628860/2c98dc22-e905-4bc0-a83f-47752920e169">
 <img width="1000" alt="Screenshot 2023-09-22 193751" src="https://github.com/MohdAqib8267/AWS/assets/106628860/f84b2ef9-b794-4f07-9d75-6d4c6608e8be">
 <img width="1000" alt="Screenshot 2023-09-22 194552" src="https://github.com/MohdAqib8267/AWS/assets/106628860/b0b2e26f-baab-40b5-b659-e81d6e22b1ab">
-### Future of cloud computing?
+
+# Future of cloud computing?
 <img width="1000" alt="Screenshot 2023-09-22 195222" src="https://github.com/MohdAqib8267/AWS/assets/106628860/1338de40-68b8-435a-956f-edd147eda820">
 <img width="1000" alt="Screenshot 2023-09-22 195505" src="https://github.com/MohdAqib8267/AWS/assets/106628860/8d597a4a-7e4b-4b3c-8748-ae6e6d6a0669">
-
-
+<img width="1000" alt="Screenshot 2023-09-24 012629" src="https://github.com/MohdAqib8267/AWS/assets/106628860/ff57350d-f424-4b92-a97f-76570c387faf">
+<img width="1000" alt="Screenshot 2023-09-24 013911" src="https://github.com/MohdAqib8267/AWS/assets/106628860/865cef0a-9614-4501-a2b7-fd51687af52a">
 
 
 
